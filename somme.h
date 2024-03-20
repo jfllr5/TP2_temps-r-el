@@ -1,5 +1,5 @@
-#ifndef somme_H
-#define somme_H
+#ifndef SOMME_H
+#define SOMME_H
 
-int somme(int x, int y);
+int somme(int , int );
 #endif 
